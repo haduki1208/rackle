@@ -1,4 +1,4 @@
-@fumihumi 君の README を参考にしました。
+@fumihumi 君の README を参考にしました。ありがとう。
 
 # Rackle
 
